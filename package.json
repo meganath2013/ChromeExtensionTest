@@ -1,0 +1,14 @@
+{
+  "name": "chromeextensionautomation",
+  "version": "1.0.0",
+  "description": "testing the grammarly extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meganath",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.1.0"
+  }
+}
