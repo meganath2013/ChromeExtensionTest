@@ -11,6 +11,7 @@ module.exports = defineConfig({
 
       })
   }},
+  video:true,
 
   baseUri: "https:www.google.com",
 
